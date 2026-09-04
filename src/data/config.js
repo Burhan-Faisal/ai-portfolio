@@ -57,7 +57,7 @@ const portfolioConfig = {
     { text: "Training model...", type: "output" },
     { text: "Evaluating model...", type: "output" },
     { text: "", type: "blank" },
-    { text: "Model Accuracy: {REPLACE_METRIC}", type: "success" },
+    { text: "Model Accuracy: 0.99%", type: "success" },
     { text: "Status: Production Ready", type: "success" },
   ],
 
